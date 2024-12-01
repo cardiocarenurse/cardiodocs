@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcardiodocs=self.webpackChunkcardiodocs||[]).push([[964],{8916:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/cardiodocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

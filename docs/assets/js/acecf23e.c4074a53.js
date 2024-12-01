@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcardiodocs=self.webpackChunkcardiodocs||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/cardiodocs/blog","blogTitle":"Blog","authorsListPath":"/cardiodocs/blog/authors"}')}}]);
